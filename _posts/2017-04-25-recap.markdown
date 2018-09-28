@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "March Recap"
+date:   2017-04-25 08:27:40
+categories: recap
+---
+In March, our beloved [Chris Parich](https://parich.us) made a bit of noise about [Docker](https://www.docker.com/).
+
+He also talked up [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) and a C++ RESTful engine called [Crow](https://github.com/ipkn/crow).
+
+You can check out his slides [here](https://drive.google.com/open?id=0B-RNxQ-0YQ48X0xjc09TMEdiQkk)

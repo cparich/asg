@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "October 14, 2015 - Meeting - Overview of Agile"
+date:   2015-10-06 09:34:44
+categories: meeting agile
+---
+On October 14 @ 6:30pm we will hold the inaugural Acadiana Software Group meeting! Our first meeting’s presentation will be a discussion panel style. We are excited to kick off our first meeting with a community involved discussion on a topic that can help us in a team setting and start off Acadiana’s software community. We hope you will join us! Please forward this email to anyone you think might be interested in this!
+
+## Presentation
+
+Overview of Agile – Discussion Panel
+
+Agile is a common phrase that gets tossed around in many tech workplaces; you may even be practicing some form of Agile, but what is Agile really? What benefits does it bring you? What are its pitfalls? How can you overcome typical obstacles that arise? We want to discuss as a community to help refine everyone’s general idea and understanding to better utilize and take advantage of Agile. We will talk openly about what is Agile by giving a brief presentation, and then the floor will be open for anyone to inquire about or share personal experiences on Agile. 
+
+### Initial Presenter
+Corey Gaudin
+ 
+### Discussion Panel:
+Corey Gaudin, Chris Parich, Demian Neidetcher, and ASG members
+
+### Schedule Itinerary:
+
+- Social 30 minutes 6:30 PM
+- Presentation 15 minutes 7:00 PM
+- Discussion 45 minutes 7:15 PM
+- Sponsor News, Social, cleanup 30 minutes 8:00 PM
+- Offsite Social, Drinks, etc. 1 hour 8:30 PM
+
+## Location
+LITE Center 537 Cajundome Blvd., Suite 101
+
+## How can I keep in touch?
+You can visit us at acadianasoftwaregroup.org, subscribe to our calendar and RSS, email us at admin@acadianasoftwaregroup.org, or join our slack group acadianasoftwaregroup.slack.com. If you would like to be added to the slack group, you can reply to this email or send a request to the email above.
+ 
+## About Acadiana Software Group
+The Acadiana Software Group is founded on the premise of providing a Community for the Software minded individuals of the surrounding Acadiana area. Our mission as a group is to facilitate education, knowledge exchange, and community among those who use Software as a profession or hobby. We hope to define this group by the needs of the community and its continual evolution, just as software itself has continued to evolve. We will provide informative presentations, education, and ideas that would enrich and enhance our minds, professions, and hobbies. We intend to bring up important topics and issues that are relative to us as a community. Our end goal is to put you as the center of the group. Ultimately with each person forming the group, we hope to bring a unique culture and a wealth of experience for anyone in the group to utilize.
+
+Thank you for your support and being a part of this community,
+ 
+ASG Committee

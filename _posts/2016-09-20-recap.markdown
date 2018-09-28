@@ -1,0 +1,19 @@
+---
+layout: post
+title:  September Recap
+date:   2016-09-20 07:33:59
+categories: recap
+---
+The September meeting was great.  There were a little over 30 software enthusiasts that showed up.  Alex gave an informative talk on Elixir.
+
+![Alex speaking](http://i.imgur.com/im5T6i6m.png)
+
+We were at a new location for September.  The Lafayette Science Museum worked out very well.  Thanks again to Paul McCasland who set us up with the space.  I think we'll be back this year.  The best thing about the museum is that it's just a walk across the street to get to Jefferson Street Pub.  We had a big turnout for after-drinks.
+
+- [Alex's Slides](http://slides.com/asonge/elixir-talk#/)
+- [Elixir Site](http://elixir-lang.org/)
+- [Hex Package manager](https://hex.pm/)
+- [Phoenix Web Framework](http://www.phoenixframework.org)
+- [Nerves Embedded device framework](http://nerves-project.org/) with automated cross-compiler build system
+
+Next month we have Jonathan Wright speaking about Ruby on Rails and ReST, don't miss it.

@@ -1,0 +1,17 @@
+---
+layout: post
+title:  May Recap
+date:   2016-05-12 13:47:56
+categories: recap
+---
+![Friends, countrymen](http://i.imgur.com/ypLUAMb.jpg?1)
+
+Tre gave us a very interesting presentation on Amazon's Cloud, and how to quickly start using it.
+
+Here's his presentations (flash warning)
+
+Part 1:
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/5sa4-i-rvkj8/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1IRC92OHNpOUZ2RE1pUG40TG9uMm5CS3lmalhGWjZieU1mOXQxRg&amp;landing_sign=YIwAMDRXSZX_Cae3efUtkypmo8rcPfwqd8jiVGANGYk"></iframe>
+
+Part 2:
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/p91ebngjrj0c/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE1IRC92OHNpOUZ2RE1pUHpQdmUxdmZHL2RUenFDLy9GMmpYREkxZQ&amp;landing_sign=7pJaRdmS2wCzx1ZtNtizsUPetFlyQeszvTTZvwitW1A"></iframe>

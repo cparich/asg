@@ -1,0 +1,11 @@
+---
+layout: post
+title:  February Recap
+date:   2017-03-06 09:13:11
+categories: recap
+---
+In February, John Patterson gave us a demonstration of F# and reasons to use it.
+
+Quite pleasingly, it was confirmed that C is in fact *not* a functional language.
+
+If you want to see his slides, please check [here](http://www.johnppatterson.com/assets/documents/fsharp_asg.pdf)

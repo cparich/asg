@@ -1,0 +1,11 @@
+---
+layout: post
+title:  June Recap
+date:   2017-06-19 07:28:24
+categories: recap
+---
+We had an excellent presentation by Raymond Camden covering the "Serverless" or "Function As A Service" concept using Apache OpenWhisk.
+
+You can find his slides [here](https://drive.google.com/open?id=0B-RNxQ-0YQ48cDJjMnZydEZUQXc)
+
+Thanks for all the support the community has given us throughout our second presentation season! Look forward to our Summer BBQ and the next presentation in September!

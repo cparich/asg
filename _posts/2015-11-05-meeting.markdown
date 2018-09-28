@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Acadiana Software Group's 2nd Meeting - ArcGIS"
+date:   2015-11-05 16:37:01
+categories: meeting ArcGIS
+---
+On November 11 @ 6:30pm we will hold our second Acadiana Software Group meeting! We plan to have a presentation to discuss GIS concepts. In our world Geospatial data is becoming more and more prevalent to our society. Each data point can in some way or another relate to us in a physical location and provide more meaning to us spatially. Hopefully by learning more about GIS it can provide our community with more capabilities to present data and relate data to our world. Please join us in covering this topic!
+
+Please forward this email to anyone you think might be interested in this!
+
+## Presentation
+
+Overview and Discussion of GIS and Spatial Data
+ 
+What is GIS and how does it give us perspectives on our data that non-spatial data cannot? This presentation will answer this question by introducing the GIS stack all the way from spatial data types in the database to standards based web maps that allow for interoperability with different systems. In this overview, we will utilize ESRI, SQL Server and JavaScript examples to illustrate GIS concepts, but will list and talk about some of the more popular comparable open source products. We will also discuss how to take non-spatial data and relate to spatial data to allow grouping and visualizing data in a completely new way.
+ 
+We hope to discuss as a community how spatial data can help you re-imagine your data in different and unique ways to present to your stakeholders and clients.
+
+## Presenter
+
+Brian Stanford
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* Announcements - 15 minutes - 7:00 PM
+* ASG Presentation: Overview of GIS Development - 30 minutes - 7:15 PM
+* Discussion on the relevance of GIS and Spatial Data. - 30 minutes - 7:45 PM
+* Innov8 Break Session: TBD - 1 hour - 7:15 PM
+* Sponsor News, Social, cleanup - 15 minutes - 8:15 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:30 PM
+
+## Meeting Sponsor
+
+TBD - If you are interested in Sponsoring please let us know, we would love to have you!
+
+## Location:
+
+Place: LITE Center
+Street: 537 Cajundome Blvd., Suite 101
+City: Lafayette
+State: LA
+Zip: 70506
+
+## How can I keep in touch
+
+You can visit us at acadianasoftwaregroup.org, subscribe to our calendar and RSS, email us at admin@acadianasoftwaregroup.org, or join our slack group acadianasoftwaregroup.slack.com. If you would like to be added to the slack group, you can reply to this email or send a request to the email above.
+
+## About Acadiana Software Group
+
+The Acadiana Software Group is founded on the premise of providing a Community for the Software minded individuals of the surrounding Acadiana area. Our mission as a group is to facilitate education, knowledge exchange, and community among those who use Software as a profession or hobby. We hope to define this group by the needs of the community and its continual evolution, just as software itself has continued to evolve. We will provide informative presentations, education, and ideas that would enrich and enhance our minds, professions, and hobbies. We intend to bring up important topics and issues that are relative to us as a community. Our end goal is to put you as the center of the group. Ultimately with each person forming the group, we hope to bring a unique culture and a wealth of experience for anyone in the group to utilize.
+
+Thank you for your support and being a part of this community,
+
+ASG Committee

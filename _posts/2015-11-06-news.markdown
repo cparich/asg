@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Lets Encrypt"
+date:   2015-11-06 13:39:57
+categories: news encryption letsencrypt
+---
+You might not have noticed the new ssl encryption available to this website, but Acadiana Software Group has been granted access to the [Let's Encrypt](https://letsencrypt.org/) beta program, allowing us to issue trusted certificates automatically for this domain.
+
+Your passwords should be safe to enter now, yay!
+
+Look forward to some site updates in the near future!

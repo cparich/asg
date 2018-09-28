@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Acadiana Software Group’s September Meeting - Wednesday, September 14th @ 6:30 PM"
+date:   2016-09-08 10:24:39
+categories: meeting elixir functional
+---
+On September 14th @ 6:30pm we will hold our September 2016 Acadiana Software Group meeting! Our community member Alexander Songe will show us Elixir, a high-performance functional language used by companies like WhatsApp. Join ASG on on Wednesday at the *Lafayette Science Museum* to learn from Alexander. 
+
+*Please take note: we are changing venue for this meeting to Downtown Lafayette. Parking is available on any of the streets for free after 5 PM.*
+
+## Presentation
+
+Elixir is a relatively new programming language with growing popularity. Elixir promises fault-tolerance, efficiency, and concurrency while being simple and easy to use. Even as a functional language, Elixir offers an easy learning curve to object oriented programmers, and values promoting developer productivity without sacrificing correctness.
+
+Elixir is built on Erlang and Erlang's VM and runs WhatsApp's backend services for nearly 1 billion users with the support of about a dozen engineers. Elixir's primary web framework, Phoenix, has been benchmarked to hold 2 million connections on large commodity servers. In the small domain, the Nerves project can allow you to deploy full Elixir projects onto embedded devices with commodity specs.
+
+In this introduction to Elixir, I hope to give you a general feel for the language and maybe a reason or two to dig a little deeper on your own.
+
+## Presenter
+
+Alexander Songe
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: Introduction to Elixer - 45 minutes - 7:00 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501
+
+## How can I keep in touch
+
+You can visit us at [acadianasoftwaregroup.org](https://acadianasoftwaregroup.org), subscribe to our [calendar](webcal://acadianasoftwaregroup.org/api/cal/ical) and [RSS](https://acadianasoftwaregroup.org/api/cms/rss), email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org), or join our slack group [acadianasoftwaregroup.slack.com](https://acadianasoftwaregroup.slack.com). If you would like to be added to the slack group, you email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org).
+
+[Facebook](https://www.facebook.com/groups/acadianasoftwaregroup/)
+
+## About Acadiana Software Group
+
+The Acadiana Software Group is founded on the premise of providing a Community for the Software minded individuals of the surrounding Acadiana area. Our mission as a group is to facilitate education, knowledge exchange, and community among those who use Software as a profession or hobby. We hope to define this group by the needs of the community and its continual evolution, just as software itself has continued to evolve. We will provide informative presentations, education, and ideas that would enrich and enhance our minds, professions, and hobbies. We intend to bring up important topics and issues that are relative to us as a community. Our end goal is to put you as the center of the group. Ultimately with each person forming the group, we hope to bring a unique culture and a wealth of experience for anyone in the group to utilize.
+
+Thank you for your support and being a part of this community,
+
+ASG Committee

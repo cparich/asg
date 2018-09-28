@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Belated April Recap
+date:   2016-05-12 13:47:56
+categories: recap
+---
+Zeke provided us with a hilarious presentation about the "joys" of PHP, unfortunately, the presentation itself was too shameful for anyone to consent to pictures.
+
+While Zeke managed to successfully defend PHP's continued popularity, it didn't stop the crowd from happily teasing him.
+
+Here's his presentation (flash warning)
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="550" height="400" src="https://prezi.com/embed/l3a2sh28i8pt/?bgcolor=ffffff&amp;lock_to_path=1&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0VDBjUG5KYjhoZmUxZTZyZTBRakNjTm53PT0&amp;landing_sign=2tuDgy0xOvKu7rVol7tzNa1xeetgbdmn7nhVHmG2pQg"></iframe>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  March Recap
+date:   2016-03-15 15:48:56
+categories: recap
+---
+![C++ Crowd](http://imgur.com/yha8X5g.jpg)
+
+[Chris Parich](https://parich.us/) gave ASGs long awaited talk on Modern C++ Fundamentals. He dug deep into some of the new capabilities that the C++ standards committee worked on from 2007 to 2011. It covered topics of interest for people ranging from practicing C++ enthusiast to people knocking the dust off of the part of their brain that last dealt with C++ in school.
+
+About a dozen of us went to Grub Burger for eats and drinks afterwards.
+
+<iframe src="https://drive.google.com/file/d/0B-RNxQ-0YQ48OF9PQ0JvbF9BUVE/preview" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

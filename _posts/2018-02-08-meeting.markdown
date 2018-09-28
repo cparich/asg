@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - Wednesday, Feb 21st @ 6:30 PM"
+date:   2018-02-08 17:28:34
+categories: meeting aurelia javascript
+---
+Wednesday Feb 21st @ 6:30pm we will hold our February Acadiana Software Group meeting! We will be skipping the second Wednesday this month due to it being Valentine day and several members will not be able to attend because of this. This month the Acadiana Software Group is going to have our very own community member Davin Smith presenting! He is going to show us Aurelia and how it can provide you with a solid web framework to build complex web applications. Join us Wednesday, Feb. 21st with what is sure to be very good information.
+
+Please forward this email to anyone you think might be interested in this!
+
+Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!
+
+Feb Meeting Note: We will be forgoing the normal 2nd Wednesday this month since it falls on Valentine this year. This is why it is on the 3rd Wednesday this month.
+
+# Primary Presentation
+
+*Aurelia*
+
+Aurelia is an all-inclusive frontend JavaScript framework built on web standards. We'll take a quick tour through Aurelia highlighting its ease of use, its robust set of straightforward built-in features, and its powerful flexibility.
+
+ 
+
+# Presenter
+
+Davin Smith is a Co-Founder and CTO of PRODOVA, a web-based engineering platform. He's previously developed and managed multiple projects with focuses ranging from high-latency synchronization, engineering, automation, and asset optimization – to web, video and UX design.
+
+# Schedule Itinerary:
+
+Social - 30 minutes - 6:30 PM
+
+ASG Primary Presentation: Aurelia - 45 minutes - 7:00 PM
+
+Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+
+Offsite Social, Drinks, and Fun: -(TBD) -1 hour - 8:00 PM
+
+# Meeting Sponsor:
+
+None – Contact our Committee if you are interested in sponsoring.
+
+# Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Acadiana Software Group’s February Meeting - Wednesday, Feb 8th @ 6:30 PM"
+date:   2017-02-03 08:58:21
+categories: meeting f-sharp
+---
+Wednesday February 8th @ 6:30pm we will hold our February Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own member John Patterson give us an introduction to F#.  It will be a simplified introduction to show us what F# may offer us as developers.
+
+## Primary Presentation
+
+Introduction to F#
+
+## Presenter
+
+John Patterson recently graduated from the University of Louisiana at Lafayette with a B.S. in Mathematics and a B.S. in Computer Science. Right now he really likes reading about and learning new programming languages. Outside of professional duties, John enjoys hiking, weightlifting, and trying to get back into drawing.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: F# - 45 minutes - 7:00 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

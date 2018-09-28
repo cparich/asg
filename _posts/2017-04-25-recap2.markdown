@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "April Recap"
+date:   2017-04-25 08:39:55
+categories: recap
+---
+In April, Mary Jiang showed us a way to approach testing in an agile environment.
+
+You can see her slides [here](https://drive.google.com/open?id=0B-RNxQ-0YQ48Y2VnSmZZZWs4Yk0)

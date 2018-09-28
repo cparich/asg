@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Acadiana Software Group’s October Meeting - Wednesday, October 12th @ 6:30 PM"
+date:   2016-10-05 11:07:33
+categories: meeting rest ruby rails
+---
+On October 12th @ 6:30pm we will hold our October 2016 Acadiana Software Group meeting! Our community member Johnathan Wright will show us a RESTful application built in Ruby on Rails. Join ASG on on Wednesday at the *Lafayette Science Museum* to learn from Johnathan. 
+
+*Please take note: we will again meet in Downtown Lafayette. Parking is available on any of the streets for free after 5 PM.*
+
+## Presentation
+
+REST is an architectural style for web development based on the experiences of people who were in charge of the web during its formative years. Roy Fielding, [King of the Internet*](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_cv_2000.htm), was kind enough to lay it all out for us years ago. And yet many people still either aren't aware of REST or are only aware of part of it. We'll look at the four architectural constraints and try to translate them into something resembling English, and we'll take a look at a fully RESTful application. And if some spaceships end up in the presentation somewhere, well, that's just how it goes.
+
+## Presenter
+
+[Johnathon](http://www.mustmodify.com/) is a polyglot web developer who lives and works in Lafayette. He primarily builds applications using Ruby on Rails for growing small businesses. He has worked at Praeses, ThoughtWorks, NASA, and more recently, as a freelancer for companies across the globe.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: Ruby on Rails + ReST - 45 minutes - 7:00 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501
+
+## How can I keep in touch
+
+You can visit us at [acadianasoftwaregroup.org](https://acadianasoftwaregroup.org), subscribe to our [calendar](webcal://acadianasoftwaregroup.org/api/cal/ical) and [RSS](https://acadianasoftwaregroup.org/api/cms/rss), email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org), or join our slack group [acadianasoftwaregroup.slack.com](https://acadianasoftwaregroup.slack.com). If you would like to be added to the slack group, you email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org).
+
+[Facebook](https://www.facebook.com/groups/acadianasoftwaregroup/)
+
+## About Acadiana Software Group
+
+The Acadiana Software Group is founded on the premise of providing a Community for the Software minded individuals of the surrounding Acadiana area. Our mission as a group is to facilitate education, knowledge exchange, and community among those who use Software as a profession or hobby. We hope to define this group by the needs of the community and its continual evolution, just as software itself has continued to evolve. We will provide informative presentations, education, and ideas that would enrich and enhance our minds, professions, and hobbies. We intend to bring up important topics and issues that are relative to us as a community. Our end goal is to put you as the center of the group. Ultimately with each person forming the group, we hope to bring a unique culture and a wealth of experience for anyone in the group to utilize.
+
+Thank you for your support and being a part of this community,
+
+ASG Committee

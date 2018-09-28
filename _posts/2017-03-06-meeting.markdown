@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Acadiana Software Group’s March Meeting - Wednesday, March 8th @ 6:30 PM"
+date:   2017-03-06 07:45:50
+categories: meeting docker
+---
+Wednesday March 8th @ 6:30pm we will hold our March Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own committee member Chris Parich give us some much needed information on Docker and Containerization. Micro services is gaining more popularity in building solutions in pieces to have less fragility. Containerization helps us build out these pieces in very interesting ways with a lot of benefits. It also fits into a more cloud centric world and can allow you to build them on premise and move them into the cloud or anywhere it needs to run. 
+
+## Primary Presentation
+
+Docker and Containerization
+
+The world of virtualization has turned on its head in the past few years. From mainframes, to server farms, to VM clusters, to on-demand instances, the past has relied on running a program on the OS. Today we can now create and deploy software without relying on the OS to host it, reducing the security surface and increasing resource availability.
+
+## Presenter
+
+Chris Parich is a Senior Technical Consultant at Perficient. He's been professionally employed in the IT sector since 2007, working in numerous industries and technologies.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: Docker & Containerization - 45 minutes - 7:00 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

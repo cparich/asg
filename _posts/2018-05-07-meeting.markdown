@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - Wednesday, May 9th @ 6:30 PM"
+date:   2018-05-07 18:41:59
+categories: meeting hateoas
+---
+Wednesday May 9th @ 6:30pm we will hold our April Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Johnathon Wright presenting! We had a bit of an issue where our previous presenter is not able to present, and Johnathon is bailing us out with a great presentation that builds on his previous REST talks. Make sure you are able to attend to learn about this important feature. Join us Wednesday, May 9th with what is sure to be very good presentation.
+
+*Note:* Thank you again Johnathon for the assist!
+
+##Primary Presentation
+ 
+### HATEOAS - Hypertext as the Engine of Application State.
+
+Continuing his discussion of REST, Johnathon will discuss the last constraint, Hypertext As The Engine Of Application State" (HATEOAS). We'll look at how HATEOAS will "Make APIs Great Again" using ref tags, resource links, self-navigable APIs, and other mind-expanding stuff that may be too much overhead for real-life applications.
+
+###Presenter
+
+Johnathon "Right" Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: HATEOAS - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM
+
+## Location: 
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Oct 14 2015 Meeting Recap"
+date:   2015-10-15 10:34:42
+categories: recap
+---
+ASG held our first meeting last night with a great turnout!
+
+We had food and drink provided by our sponsor [Perficient](https://www.perficient.com/), and a short presentation for Cajun Code Fest by Dr. Henry Chu.
+
+From there, we had a presentation on Agile methodologies
+
+![Corey making a fool of himself](http://imgur.com/reRuWYd.jpg)
+
+and nice discussion on some of the finer points (like what's a point?)
+
+![Brian is a plant](http://imgur.com/JvLGbVX.jpg)
+
+Here are the slides we used for the presentation. Thanks go to Corey and Demain for perparing these.
+
+<iframe src="https://docs.google.com/presentation/d/1y8FNotUOWokTaXW-yM3w0JjSzsJfK2R_pMoQ9KHJ__E/embed?start=false&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Stay tuned for details on our next meeting!
+
+![The Wishing Tree](http://imgur.com/sKGw0p9.png)

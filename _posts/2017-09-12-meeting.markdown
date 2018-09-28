@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - this Week - Wednesday, Sept 13th @ 6:30 PM"
+date:   2017-09-12 08:03:44
+categories: meeting elixir functional
+---
+Wednesday Sept 13th @ 6:30pm we will hold our June Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our knowledgeable committee member Alex Songe give us some notable ES6 and ES7 JavaScript features that you may not have noticed. Join us this Wednesday with what is sure to be an enlightening meeting.
+ 
+Please forward this email to anyone you think might be interested in this!
+Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!
+
+## Primary Presentation
+ 
+### Fun with Functions in ES6 and ES7
+ 
+JavaScript has seen a lot of updates with ES6, ES7/ES2015, and ES2016. After a quick highlight reel of some notable ES6 and ES7 features that might've gone unnoticed, Alex will use and explain very basic functional programming techniques to keep your JavaScript understandable and to stop your project from devolving into a giant ball of mud within 2 months.
+ 
+### Presenter
+ 
+Alexander Songe

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  Recap of Java8 Talk
+date:   2016-01-22 08:10:36
+categories: recap
+---
+![Java8 Crowd](http://i.imgur.com/BYoiTiF.png?1)
+
+[Demian Neidetcher](http://neidetcher.com) gave ASGs first talk of the new year on Functional Programming in Java8.  Although there weren't a lot of Java software engineers in the audience there was a lot of great discussions about how functional programming concepts apply to other technologies like .NET, Elixir and JavaScript.  The talk was heavy with code samples to show how Java8 does Lambdas.
+
+Afterwards about half of us went to Deano's for drinks.
+
+- [Here's a PDF copy of the slides](https://drive.google.com/file/d/0B8RBmSpwrxNSYW9YU1V3dXNLZXM/view?usp=sharing)
+- [The example code I used is up on GitHub](https://github.com/demian0311/fp)
+
+<iframe src="https://drive.google.com/file/d/0B8RBmSpwrxNSYW9YU1V3dXNLZXM/preview" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

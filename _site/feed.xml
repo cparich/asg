@@ -1,40 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Acadiana Software Group</title>
+    <description>Home of the Acadiana Software Group!
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Sep 2018 11:58:13 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Sep 2018 11:58:13 -0500</lastBuildDate>
+    <link>https://acadianasoftwaregroup.org/</link>
+    <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Sep 2018 14:26:38 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Sep 2018 14:26:38 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Acadiana Software Group’s Meeting - Wednesday, May 9th @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday May 9th @ 6:30pm we will hold our April Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Johnathon Wright presenting! We had a bit of an issue where our previous presenter is not able to present, and Johnathon is bailing us out with a great presentation that builds on his previous REST talks. Make sure you are able to attend to learn about this important feature. Join us Wednesday, May 9th with what is sure to be very good presentation.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Thank you again Johnathon for the assist!&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;##Primary Presentation&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;hateoas---hypertext-as-the-engine-of-application-state&quot;&gt;HATEOAS - Hypertext as the Engine of Application State.&lt;/h3&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Continuing his discussion of REST, Johnathon will discuss the last constraint, Hypertext As The Engine Of Application State” (HATEOAS). We’ll look at how HATEOAS will “Make APIs Great Again” using ref tags, resource links, self-navigable APIs, and other mind-expanding stuff that may be too much overhead for real-life applications.&lt;/p&gt;
 
+&lt;p&gt;###Presenter&lt;/p&gt;
+
+&lt;p&gt;Johnathon “Right” Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: HATEOAS - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Sep 2018 11:53:22 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2018/09/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2018/09/28/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 07 May 2018 13:41:59 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/hateoas/2018/05/07/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/hateoas/2018/05/07/meeting.html</guid>
         
         
-        <category>jekyll</category>
+        <category>meeting</category>
         
-        <category>update</category>
+        <category>hateoas</category>
+        
+      </item>
+    
+      <item>
+        <title>Acadiana Software Group’s Meeting - Wednesday, April 11th @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday April 11th @ 6:30pm we will hold our April Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Charles LeDoux presenting!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;a-guide-to-git-how-understanding-the-tree-model-will-give-you-version-control-super-powers&quot;&gt;A guide to git: how understanding the tree model will give you version control super powers.&lt;/h3&gt;
+
+&lt;p&gt;This presentation will go over Git and how to best utilize this version control to help you with your projects.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;Charles LeDoux.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: A Guide to Git - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Apr 2018 13:23:37 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/git/2018/04/10/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/git/2018/04/10/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>git</category>
+        
+      </item>
+    
+      <item>
+        <title>Acadiana Software Group’s Meeting - Wednesday, Mar 14th @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday March 14th @ 6:30pm we will hold our March Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Dr. Charles Cavanaugh presenting! He is going to show us the wearable world we live in and how to develop for these invading devices. Join us Wednesday, March 14th with what is sure to be very good information.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Please Note: We are hosting this event at the CGI Office building in the Spark Lab! Please be aware of the location change for this month. Look below for the address and location.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;hello-wearable-world-design-and-development-of-applications-for-wearable-tech&quot;&gt;Hello Wearable World! Design and Development of Applications for Wearable Tech&lt;/h3&gt;
+
+&lt;p&gt;This talk is about developing apps for wearable devices. I plan to give a brief overview of the technologies used and show how tech-minded people with programming experience as well as creative people who have interesting ideas for this platform can get involved.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;Dr. Charles Cavanaugh holds a Ph.D. in Computer Science from the University of Texas at Arlington, studying real-time distributed computer systems. His research was part of a defense-sponsored project, and he did a summer internship at the Naval Surface Warfare Center in northern Virginia during that time.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: Hello Wearable World! - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;meeting-sponsor&quot;&gt;Meeting Sponsor&lt;/h2&gt;
+
+&lt;p&gt;CGI.&lt;/p&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;CGI Spark Lab
+538 Cajun Dome Blvd
+Lafayette LA 70506&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Mar 2018 01:49:27 -0600</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/wearble/2018/03/07/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/wearble/2018/03/07/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>wearble</category>
+        
+      </item>
+    
+      <item>
+        <title>Acadiana Software Group’s Meeting - Wednesday, Feb 21st @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday Feb 21st @ 6:30pm we will hold our February Acadiana Software Group meeting! We will be skipping the second Wednesday this month due to it being Valentine day and several members will not be able to attend because of this. This month the Acadiana Software Group is going to have our very own community member Davin Smith presenting! He is going to show us Aurelia and how it can provide you with a solid web framework to build complex web applications. Join us Wednesday, Feb. 21st with what is sure to be very good information.&lt;/p&gt;
+
+&lt;p&gt;Please forward this email to anyone you think might be interested in this!&lt;/p&gt;
+
+&lt;p&gt;Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
+
+&lt;p&gt;Feb Meeting Note: We will be forgoing the normal 2nd Wednesday this month since it falls on Valentine this year. This is why it is on the 3rd Wednesday this month.&lt;/p&gt;
+
+&lt;h1 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Aurelia&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Aurelia is an all-inclusive frontend JavaScript framework built on web standards. We’ll take a quick tour through Aurelia highlighting its ease of use, its robust set of straightforward built-in features, and its powerful flexibility.&lt;/p&gt;
+
+&lt;h1 id=&quot;presenter&quot;&gt;Presenter&lt;/h1&gt;
+
+&lt;p&gt;Davin Smith is a Co-Founder and CTO of PRODOVA, a web-based engineering platform. He’s previously developed and managed multiple projects with focuses ranging from high-latency synchronization, engineering, automation, and asset optimization – to web, video and UX design.&lt;/p&gt;
+
+&lt;h1 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h1&gt;
+
+&lt;p&gt;Social - 30 minutes - 6:30 PM&lt;/p&gt;
+
+&lt;p&gt;ASG Primary Presentation: Aurelia - 45 minutes - 7:00 PM&lt;/p&gt;
+
+&lt;p&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/p&gt;
+
+&lt;p&gt;Offsite Social, Drinks, and Fun: -(TBD) -1 hour - 8:00 PM&lt;/p&gt;
+
+&lt;h1 id=&quot;meeting-sponsor&quot;&gt;Meeting Sponsor:&lt;/h1&gt;
+
+&lt;p&gt;None – Contact our Committee if you are interested in sponsoring.&lt;/p&gt;
+
+&lt;h1 id=&quot;location&quot;&gt;Location:&lt;/h1&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Feb 2018 11:28:34 -0600</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/aurelia/javascript/2018/02/08/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/aurelia/javascript/2018/02/08/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>aurelia</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Acadiana Software Group’s Meeting - Wednesday, Oct 11th @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday Oct 11th @ 6:30pm we will hold our October Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our community member Johnathon give us some insight into the basics of Ruby on Rails. Join us this Wednesday, Oct. 11th with what is sure to be an enlightening meeting.&lt;/p&gt;
+
+&lt;p&gt;Please forward this email to anyone you think might be interested in this!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;p&gt;Rails In Action&lt;/p&gt;
+
+&lt;p&gt;Learn about the basics of Ruby on Rails, a server-side MVC web application framework built on top of Ruby. See Johnathon try NOT to make a fool of himself while live-coding a simple blog application.&lt;/p&gt;
+
+&lt;h2 id=&quot;presenter&quot;&gt;Presenter&lt;/h2&gt;
+
+&lt;p&gt;Johnathon “Right” Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2017 06:21:57 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/ruby/rails/2017/10/10/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/ruby/rails/2017/10/10/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>ruby</category>
+        
+        <category>rails</category>
+        
+      </item>
+    
+      <item>
+        <title>Acadiana Software Group’s Meeting - this Week - Wednesday, Sept 13th @ 6:30 PM</title>
+        <description>&lt;p&gt;Wednesday Sept 13th @ 6:30pm we will hold our June Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our knowledgeable committee member Alex Songe give us some notable ES6 and ES7 JavaScript features that you may not have noticed. Join us this Wednesday with what is sure to be an enlightening meeting.&lt;/p&gt;
+
+&lt;p&gt;Please forward this email to anyone you think might be interested in this!
+Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;fun-with-functions-in-es6-and-es7&quot;&gt;Fun with Functions in ES6 and ES7&lt;/h3&gt;
+
+&lt;p&gt;JavaScript has seen a lot of updates with ES6, ES7/ES2015, and ES2016. After a quick highlight reel of some notable ES6 and ES7 features that might’ve gone unnoticed, Alex will use and explain very basic functional programming techniques to keep your JavaScript understandable and to stop your project from devolving into a giant ball of mud within 2 months.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;Alexander Songe&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Sep 2017 03:03:44 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/elixir/functional/2017/09/12/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/elixir/functional/2017/09/12/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>elixir</category>
+        
+        <category>functional</category>
+        
+      </item>
+    
+      <item>
+        <title>June Recap</title>
+        <description>&lt;p&gt;We had an excellent presentation by Raymond Camden covering the “Serverless” or “Function As A Service” concept using Apache OpenWhisk.&lt;/p&gt;
+
+&lt;p&gt;You can find his slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48cDJjMnZydEZUQXc&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for all the support the community has given us throughout our second presentation season! Look forward to our Summer BBQ and the next presentation in September!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Jun 2017 02:28:24 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</guid>
+        
+        
+        <category>recap</category>
+        
+      </item>
+    
+      <item>
+        <title>May Recap</title>
+        <description>&lt;p&gt;Posting this article on time for a change!&lt;/p&gt;
+
+&lt;p&gt;Thanks goes to Steven Musumeche for giving us a thrilling overview of how to write ui components using React. He also showed us the wonders of Redux.&lt;/p&gt;
+
+&lt;p&gt;You can view the presentation slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48elRlZGhramppcms&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 May 2017 04:08:31 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</guid>
+        
+        
+        <category>recap</category>
+        
+      </item>
+    
+      <item>
+        <title>April Recap</title>
+        <description>&lt;p&gt;In April, Mary Jiang showed us a way to approach testing in an agile environment.&lt;/p&gt;
+
+&lt;p&gt;You can see her slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48Y2VnSmZZZWs4Yk0&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Apr 2017 03:39:55 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</guid>
+        
+        
+        <category>recap</category>
+        
+      </item>
+    
+      <item>
+        <title>March Recap</title>
+        <description>&lt;p&gt;In March, our beloved &lt;a href=&quot;https://parich.us&quot;&gt;Chris Parich&lt;/a&gt; made a bit of noise about &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He also talked up &lt;a href=&quot;https://bitbucket.org/product/features/pipelines&quot;&gt;Bitbucket Pipelines&lt;/a&gt; and a C++ RESTful engine called &lt;a href=&quot;https://github.com/ipkn/crow&quot;&gt;Crow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can check out his slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48X0xjc09TMEdiQkk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Apr 2017 03:27:40 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/recap/2017/04/25/recap.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/04/25/recap.html</guid>
+        
+        
+        <category>recap</category>
         
       </item>
     

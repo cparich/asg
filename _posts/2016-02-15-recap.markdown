@@ -1,0 +1,27 @@
+---
+layout: post
+title:  February 10th Recap
+date:   2016-02-15 08:20:09
+categories: recap
+---
+In this meeting we had two different presentations.
+
+Dr. Henry Chu briefly told us about the Cajun Code Fest. He mentioned the competition timeline of 5 months, and about how improving our country's health technology is a laudable goal.
+
+<img src="http://i.imgur.com/6yJVkUM.jpg" alt="Dr. Chu's Presentation on Cajun Code Fest" style="width: 100%;"/>
+
+Here are the slides he presented.
+
+<iframe src="https://drive.google.com/file/d/0B-RNxQ-0YQ48amNQOWV5TWVNdW8/preview" width="640" height="480"></iframe>
+
+[Fihr Github](https://github.com/smart-on-fhir)
+
+Afterwards, Taylor Latch gave us an overview on modern WordPress techniques and tooling.
+
+<img src="https://i.imgur.com/AHHS4Hn.jpg" alt="Taylor and the abominable CMS" style="width: 100%;"/>
+
+In it, we learned techniques to make our WordPress sites rank highly on Google.
+
+<iframe src="https://docs.google.com/presentation/d/1dPXNgGwAdcuT3uWaRtqAHPuRU37PAyGi0aAzrfPrwJg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+We proceeded to Deano's Pizza for our after-meeting social and partied for the rest of the night!

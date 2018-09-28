@@ -1,0 +1,11 @@
+---
+layout: post
+title:  May Recap
+date:   2017-05-11 09:08:31
+categories: recap
+---
+Posting this article on time for a change!
+
+Thanks goes to Steven Musumeche for giving us a thrilling overview of how to write ui components using React. He also showed us the wonders of Redux.
+
+You can view the presentation slides [here](https://drive.google.com/open?id=0B-RNxQ-0YQ48elRlZGhramppcms)

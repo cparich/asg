@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - Wednesday, April 11th @ 6:30 PM"
+date:   2018-04-10 18:23:37
+categories: meeting git
+---
+Wednesday April 11th @ 6:30pm we will hold our April Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Charles LeDoux presenting!
+
+*Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!*
+
+
+## Primary Presentation
+ 
+### A guide to git: how understanding the tree model will give you version control super powers.
+
+This presentation will go over Git and how to best utilize this version control to help you with your projects.
+
+### Presenter
+
+Charles LeDoux.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: A Guide to Git - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM
+
+## Location: 
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Acadiana Software Groups First Meet and Greet!"
+date:   2015-09-14 07:49:17
+categories: meeting
+---
+Do you live in the Acadiana area? Are you involved with Software in some capacity? Then we would like to greet you into the Acadiana Software Group! We are starting a new community that focuses on Software at any level. Our goal is to build a community with software minded individuals so that we can rely on each other for the daily challenges of our professions and academic careers. This is a way like minded individuals can get together to see presentations, discuss real topics, and expand our knowledge of concepts, ideas, and social interactions.
+
+The Acadiana Software Group committee is excited to get this community started by meeting with anyone that is interested in attending the Meet and Greet over some BBQ at Gerard Park. We would like to discuss our ideas with you and get some ideas that others may have.
+
+We intend for this community to be open to all Software minded individuals regardless of your platform of choice, experience, or profession. We welcome Programmers, Designers, Database experts, Students, Hobbyist, etc.
+
+If you would like to bring meat and drinks, please feel free to bring it. We would love to see you out there!
+
+When:  Saturday, September 19, 2015, 4:00PM to 6:00PM
+Where: Girard Park
+Why:   To kick off our Acadiana Software Group with the Communities input and to get to know you!
+
+Committee Members:
+* Corey J Gaudin
+* Chris  Parich
+* Demian Neidetcher
+* Brian Stanford

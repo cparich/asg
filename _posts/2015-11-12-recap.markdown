@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Nov 11th Meeting Recap"
+date:   2015-11-12 12:53:12
+categories: recap
+---
+ASG held our second meeting last night.  Turnout was great again, thanks everyone for showing up!
+
+After socializing for a while the main event began with Brian Stanford speaking about GIS.  He gave us an overview of the ESRI tooling which is the big player in GIS.  He mentioned some open-source alternatives to ESRI.  Brian also gave interesting anecdotes about how Stone Energy uses GIS.
+
+When the talk was over we went to Buffalo Wild Wings.  About 10 brave souls made the drive over.  We argued about technology, made off-color jokes, had drinks and ate dead chickens.
+
+*UPDATE*
+Slides attached:
+
+<iframe src="https://docs.google.com/presentation/d/1y5H0hltv53ZEOu9-EKTN8Ubtq7xqLQZgKtKN_pcuYak/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

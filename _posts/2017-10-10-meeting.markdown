@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - Wednesday, Oct 11th @ 6:30 PM"
+date:   2017-10-10 11:21:57
+categories: meeting ruby rails
+---
+Wednesday Oct 11th @ 6:30pm we will hold our October Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our community member Johnathon give us some insight into the basics of Ruby on Rails. Join us this Wednesday, Oct. 11th with what is sure to be an enlightening meeting.
+ 
+Please forward this email to anyone you think might be interested in this!
+
+*Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!*
+
+## Primary Presentation
+ 
+Rails In Action
+ 
+Learn about the basics of Ruby on Rails, a server-side MVC web application framework built on top of Ruby. See Johnathon try NOT to make a fool of himself while live-coding a simple blog application.
+ 
+## Presenter
+ 
+Johnathon "Right" Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.

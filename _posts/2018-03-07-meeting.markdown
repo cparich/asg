@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Acadiana Software Group’s Meeting - Wednesday, Mar 14th @ 6:30 PM"
+date:   2018-03-07 07:49:27
+categories: meeting wearble
+---
+Wednesday March 14th @ 6:30pm we will hold our March Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Dr. Charles Cavanaugh presenting! He is going to show us the wearable world we live in and how to develop for these invading devices. Join us Wednesday, March 14th with what is sure to be very good information.
+
+*Please Note: We are hosting this event at the CGI Office building in the Spark Lab! Please be aware of the location change for this month. Look below for the address and location.*
+
+## Primary Presentation
+ 
+### Hello Wearable World! Design and Development of Applications for Wearable Tech
+
+This talk is about developing apps for wearable devices. I plan to give a brief overview of the technologies used and show how tech-minded people with programming experience as well as creative people who have interesting ideas for this platform can get involved.
+
+### Presenter
+
+Dr. Charles Cavanaugh holds a Ph.D. in Computer Science from the University of Texas at Arlington, studying real-time distributed computer systems. His research was part of a defense-sponsored project, and he did a summer internship at the Naval Surface Warfare Center in northern Virginia during that time.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: Hello Wearable World! - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: (TBD) - 1 hour - 8:00 PM
+
+## Meeting Sponsor
+
+CGI.
+
+## Location: 
+
+CGI Spark Lab
+538 Cajun Dome Blvd
+Lafayette LA 70506

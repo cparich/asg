@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "Acadiana Software Group's May Meeting - Wednesday, May 11th @ 6:30 PM"
+date:   2016-05-09 07:37:51
+categories: meeting lamp bash
+---
+On May 11th @ 6:30pm we will hold our May Acadiana Software Group meeting! Our community and advisory team member Tre King will give us insight into utilizing Bash Scripting for Dev Ops on Amazon's Cloud.  In his presentation, Tre will demonstrate the automation capabilities available for AWS via standard Linux shell. He'll be focusing on the common "LAMP" stack, which includes an Apache 2 web server, MySQL or MariaDB, and PHP, all running atop a base Linux environment. Come learn how to get your virtual server instance deployed and configured with the aid of a few lines of code that will do the heavy lifting for you.  Join ASG on Wednesday, May 11, 2016 @ LITE center to learn from Tre King of INFASCINATOIN, LLC about how to make your life simpler and automate you LAMP stack setup.
+
+## Presentation
+
+Automating LAMP stack setup using Bash shell script on Amazon Web Services
+
+Over 53% of the web servers on the internet are powered by Apache technology and over 65% of the internet web servers are running flavors of Linux/Unix OS.  Setup and configuration of web servers can be daunting for the less experienced, but it does not have to be a difficult process thanks to Bash script automation.  
+
+## Presenter
+
+[Tre King](https://www.infascination.com/) is a currently working with CGI in Lafayette as AWS Cloud Engineer on the Emerging Technologies Practice team.  He is a business owner and serial entrepreneur circa 2010.  He is an accredited Amazon Business Professional and Amazon Technical Professional.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: Automating LAMP stack with Bash - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, etc. - 1 hour - 8:00 PM
+
+## Location:
+
+Place: LITE Center
+Street: 537 Cajundome Blvd., Suite 101
+City: Lafayette
+State: LA
+Zip: 70506
+
+## How can I keep in touch
+
+You can visit us at [acadianasoftwaregroup.org](https://acadianasoftwaregroup.org), subscribe to our [calendar](webcal://acadianasoftwaregroup.org/api/cal/ical) and [RSS](https://acadianasoftwaregroup.org/api/cms/rss), email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org), or join our slack group [acadianasoftwaregroup.slack.com](https://acadianasoftwaregroup.slack.com). If you would like to be added to the slack group, you email us at [admin@acadianasoftwaregroup.org](mailto:admin@acadianasoftwaregroup.org).
+
+[Facebook](https://www.facebook.com/groups/acadianasoftwaregroup/), [Twitter](https://twitter.com/AcadianaSG)
+
+## About Acadiana Software Group
+
+The Acadiana Software Group is founded on the premise of providing a Community for the Software minded individuals of the surrounding Acadiana area. Our mission as a group is to facilitate education, knowledge exchange, and community among those who use Software as a profession or hobby. We hope to define this group by the needs of the community and its continual evolution, just as software itself has continued to evolve. We will provide informative presentations, education, and ideas that would enrich and enhance our minds, professions, and hobbies. We intend to bring up important topics and issues that are relative to us as a community. Our end goal is to put you as the center of the group. Ultimately with each person forming the group, we hope to bring a unique culture and a wealth of experience for anyone in the group to utilize.
+
+Thank you for your support and being a part of this community,
+
+ASG Committee
