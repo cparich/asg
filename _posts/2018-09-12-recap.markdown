@@ -1,0 +1,9 @@
+---
+layout: post
+title:  September Recap
+date:   2018-09-28 16:15:00 -500
+categories: recap
+---
+Davin surprised us with a well-designed presentation on visual design language in software.
+
+His slides are available [here](https://drive.google.com/file/d/1aiFjvjOzlR0NjUS0mdS1Kd5lnW-cKUWl/view?usp=sharing).

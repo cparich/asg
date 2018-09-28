@@ -6,9 +6,24 @@
 </description>
     <link>https://acadianasoftwaregroup.org/</link>
     <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Sep 2018 14:26:38 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Sep 2018 14:26:38 -0500</lastBuildDate>
+    <pubDate>Fri, 28 Sep 2018 16:18:24 -0500</pubDate>
+    <lastBuildDate>Fri, 28 Sep 2018 16:18:24 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>September Recap</title>
+        <description>&lt;p&gt;Davin surprised us with a well-designed presentation on visual design language in software.&lt;/p&gt;
+
+&lt;p&gt;His slides are available &lt;a href=&quot;https://drive.google.com/file/d/1aiFjvjOzlR0NjUS0mdS1Kd5lnW-cKUWl/view?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Sep 2018 16:15:00 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/recap/2018/09/28/recap.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2018/09/28/recap.html</guid>
+        
+        
+        <category>recap</category>
+        
+      </item>
     
       <item>
         <title>Acadiana Software Group’s Meeting - Wednesday, May 9th @ 6:30 PM</title>
@@ -297,23 +312,6 @@ Note: If you are interested in a presentation, please talk with us, we would be 
         <pubDate>Tue, 25 Apr 2017 03:39:55 -0500</pubDate>
         <link>https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</link>
         <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</guid>
-        
-        
-        <category>recap</category>
-        
-      </item>
-    
-      <item>
-        <title>March Recap</title>
-        <description>&lt;p&gt;In March, our beloved &lt;a href=&quot;https://parich.us&quot;&gt;Chris Parich&lt;/a&gt; made a bit of noise about &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;He also talked up &lt;a href=&quot;https://bitbucket.org/product/features/pipelines&quot;&gt;Bitbucket Pipelines&lt;/a&gt; and a C++ RESTful engine called &lt;a href=&quot;https://github.com/ipkn/crow&quot;&gt;Crow&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;You can check out his slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48X0xjc09TMEdiQkk&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Apr 2017 03:27:40 -0500</pubDate>
-        <link>https://acadianasoftwaregroup.org/recap/2017/04/25/recap.html</link>
-        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/04/25/recap.html</guid>
         
         
         <category>recap</category>
