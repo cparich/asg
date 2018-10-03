@@ -8,13 +8,13 @@ Wednesday May 9th @ 6:30pm we will hold our April Acadiana Software Group meetin
 
 *Note:* Thank you again Johnathon for the assist!
 
-##Primary Presentation
+## Primary Presentation
  
 ### HATEOAS - Hypertext as the Engine of Application State.
 
 Continuing his discussion of REST, Johnathon will discuss the last constraint, Hypertext As The Engine Of Application State" (HATEOAS). We'll look at how HATEOAS will "Make APIs Great Again" using ref tags, resource links, self-navigable APIs, and other mind-expanding stuff that may be too much overhead for real-life applications.
 
-###Presenter
+### Presenter
 
 Johnathon "Right" Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.
 

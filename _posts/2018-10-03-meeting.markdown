@@ -1,0 +1,37 @@
+---
+layout: post
+title:  September Recap
+date:   2018-10-03 12:09:45 -500
+categories: meeting typescript javascript
+---
+# Acadiana Software Group’s Meeting – Wednesday, Oct. 10th @ 6:30 PM
+
+Wednesday Oct 10th @ 6:30pm we will hold our October Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Steven Musumeche presenting! Make sure you are able to attend to learn about TypeScript and how it can help you write JavaScript without all of the pain.
+
+*Note:* If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!
+
+## Primary Presentation
+ 
+
+### TypeScript: Writing JavaScript without the Pain.
+
+Most of today's developers have some exposure to JavaScript and some have experienced problems with creating and maintaining large applications over time. This presentation will provide an introduction to the TypeScript language and why you might use it for your JavaScript projects. Topics covered will include benefits, basic syntax, and a few advanced subjects. After seeing the presentation, attendees will have a high-level overview of the benefits of TypeScript, basic syntax, and where it fits in the web development ecosystem.
+
+### Presenter
+
+Steven Musumeche - Senior Software Engineer
+
+Steven came of age with the world wide web and continues to be shaped by its evolution. He started his career by co-founding the e-commerce startup, Internet Retail Connection, and grew it into a $5M business. After ten years of being the boss, it was time for a change, so Steven joined Chicago-based Dealer Inspire to lead a live chat SaaS product catering to the automotive industry. After the company was acquired by Cars.com in early 2018, Steven joined Seattle-based Formidable as a senior full-stack software engineer where he focuses on open source and JavaScript-focused client projects including React, React Native, Node, and GraphQL.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: - TypeScript: Writing JS w/o the Pain - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

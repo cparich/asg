@@ -6,9 +6,57 @@
 </description>
     <link>https://acadianasoftwaregroup.org/</link>
     <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Sep 2018 16:18:24 -0500</pubDate>
-    <lastBuildDate>Fri, 28 Sep 2018 16:18:24 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Oct 2018 12:16:21 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Oct 2018 12:16:21 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>September Recap</title>
+        <description>&lt;h1 id=&quot;acadiana-software-groups-meeting--wednesday-oct-10th--630-pm&quot;&gt;Acadiana Software Group’s Meeting – Wednesday, Oct. 10th @ 6:30 PM&lt;/h1&gt;
+
+&lt;p&gt;Wednesday Oct 10th @ 6:30pm we will hold our October Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Steven Musumeche presenting! Make sure you are able to attend to learn about TypeScript and how it can help you write JavaScript without all of the pain.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;typescript-writing-javascript-without-the-pain&quot;&gt;TypeScript: Writing JavaScript without the Pain.&lt;/h3&gt;
+
+&lt;p&gt;Most of today’s developers have some exposure to JavaScript and some have experienced problems with creating and maintaining large applications over time. This presentation will provide an introduction to the TypeScript language and why you might use it for your JavaScript projects. Topics covered will include benefits, basic syntax, and a few advanced subjects. After seeing the presentation, attendees will have a high-level overview of the benefits of TypeScript, basic syntax, and where it fits in the web development ecosystem.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;Steven Musumeche - Senior Software Engineer&lt;/p&gt;
+
+&lt;p&gt;Steven came of age with the world wide web and continues to be shaped by its evolution. He started his career by co-founding the e-commerce startup, Internet Retail Connection, and grew it into a $5M business. After ten years of being the boss, it was time for a change, so Steven joined Chicago-based Dealer Inspire to lead a live chat SaaS product catering to the automotive industry. After the company was acquired by Cars.com in early 2018, Steven joined Seattle-based Formidable as a senior full-stack software engineer where he focuses on open source and JavaScript-focused client projects including React, React Native, Node, and GraphQL.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: - TypeScript: Writing JS w/o the Pain - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Oct 2018 12:09:45 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/typescript/javascript/2018/10/03/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/typescript/javascript/2018/10/03/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>typescript</category>
+        
+        <category>javascript</category>
+        
+      </item>
     
       <item>
         <title>September Recap</title>
@@ -31,13 +79,13 @@
 
 &lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Thank you again Johnathon for the assist!&lt;/p&gt;
 
-&lt;p&gt;##Primary Presentation&lt;/p&gt;
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
 
 &lt;h3 id=&quot;hateoas---hypertext-as-the-engine-of-application-state&quot;&gt;HATEOAS - Hypertext as the Engine of Application State.&lt;/h3&gt;
 
 &lt;p&gt;Continuing his discussion of REST, Johnathon will discuss the last constraint, Hypertext As The Engine Of Application State” (HATEOAS). We’ll look at how HATEOAS will “Make APIs Great Again” using ref tags, resource links, self-navigable APIs, and other mind-expanding stuff that may be too much overhead for real-life applications.&lt;/p&gt;
 
-&lt;p&gt;###Presenter&lt;/p&gt;
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
 
 &lt;p&gt;Johnathon “Right” Wright is an experienced, polyglot freelance programmer from Lafayette. He has been writing code since he was 7, when his dad brought home a TRS-80. He graduated in CS from UL and has worked at ThoughtWorks and NASA. He believes in the value of TDD, the Agile manifesto, and Ruby.&lt;/p&gt;
 
@@ -297,21 +345,6 @@ Note: If you are interested in a presentation, please talk with us, we would be 
         <pubDate>Thu, 11 May 2017 04:08:31 -0500</pubDate>
         <link>https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</link>
         <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</guid>
-        
-        
-        <category>recap</category>
-        
-      </item>
-    
-      <item>
-        <title>April Recap</title>
-        <description>&lt;p&gt;In April, Mary Jiang showed us a way to approach testing in an agile environment.&lt;/p&gt;
-
-&lt;p&gt;You can see her slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48Y2VnSmZZZWs4Yk0&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Apr 2017 03:39:55 -0500</pubDate>
-        <link>https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</link>
-        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/04/25/recap2.html</guid>
         
         
         <category>recap</category>
