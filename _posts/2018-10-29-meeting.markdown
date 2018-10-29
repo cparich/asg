@@ -1,0 +1,38 @@
+---
+layout: post
+title:  ASG's November 2018 Meeting - Creating Reusable Libraries in Angular 6
+date:   2018-10-29 17:01:00 -500
+categories: meeting angular6 javascript
+---
+# Acadiana Software Group's Meeting - Wednesday, Nov. 14th @ 6:30 PM
+
+Wednesday Nov 14th @ 6:30pm we will hold our November Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Aaron Lozier presenting! Make sure you are able to attend to learn about Reusable Libraries in Angular and how it can help you write JavaScript without all of the pain.
+
+*Note:* If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!
+
+## Primary Presentation
+
+### TypeScript: Writing JavaScript without the Pain.
+
+A common challenge for software developers is figuring out how to extract reusable code from their applications so that the same features and functionality can be used across multiple applications. In some cases, it may be desirable to release the code as an open source library or module such that the wider community can contribute improvements and bug fixes. In other cases, it may be preferable to host the code in a private repository owned by the organization, while still aiming for a similar goal: reuse and collaboration across teams or projects.
+ 
+While it has always been possible to create reusable libraries in Angular, the release of Angular 6 in May of this year introduces new features that make it easier than ever before. This presentation will walk through the basic process of building a library within a project, and leveraging the features of the library in the application code. The presentation will then go a step further by discussing how this library can be deployed as a standalone npm module. Various options for deploying the module to the open source community or via a private npm repository such as Verdaccio or Artifactory will be covered.
+
+### Presenter
+
+Aaron Lozier
+
+Aaron Lozier has been passionate about programming his entire life. He wrote his first program at age seven on a TI-994a in 1985. After graduating college in 2002, he dove headfirst into the world of Web Development, beginning with ASP, CSS2 and pre-JQuery JavaScript. Within a few years he was drawn to the open source community and began building applications on the LAMP stack. He started a custom application development company, Information ArchiTECH, in 2011. After years of successful projects, building applications for dozens of companies in Louisiana and beyond, his company was acquired. He began work at CGI as a Senior Developer in February of this year, and was quickly promoted to Solution Architect. He currently oversees the Unify360 project, a hybrid-IT management and analytics platform currently in use by numerous Federal agencies.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: -  Creating Reusable Libraries in Angular 6 - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501

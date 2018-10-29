@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ASG's September 2018 Meeting - Writing Javascript Without the Pain
+title:  ASG's October 2018 Meeting - Writing Javascript Without the Pain
 date:   2018-10-03 12:09:45 -500
 categories: meeting typescript javascript
 ---

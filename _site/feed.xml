@@ -6,12 +6,62 @@
 </description>
     <link>https://acadianasoftwaregroup.org/</link>
     <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Oct 2018 19:20:22 -0500</pubDate>
-    <lastBuildDate>Wed, 03 Oct 2018 19:20:22 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Oct 2018 17:05:35 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Oct 2018 17:05:35 -0500</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>ASG&#39;s September 2018 Meeting - Writing Javascript Without the Pain</title>
+        <title>ASG&#39;s November 2018 Meeting - Creating Reusable Libraries in Angular 6</title>
+        <description>&lt;h1 id=&quot;acadiana-software-groups-meeting---wednesday-nov-14th--630-pm&quot;&gt;Acadiana Software Group’s Meeting - Wednesday, Nov. 14th @ 6:30 PM&lt;/h1&gt;
+
+&lt;p&gt;Wednesday Nov 14th @ 6:30pm we will hold our November Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Aaron Lozier presenting! Make sure you are able to attend to learn about Reusable Libraries in Angular and how it can help you write JavaScript without all of the pain.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;typescript-writing-javascript-without-the-pain&quot;&gt;TypeScript: Writing JavaScript without the Pain.&lt;/h3&gt;
+
+&lt;p&gt;A common challenge for software developers is figuring out how to extract reusable code from their applications so that the same features and functionality can be used across multiple applications. In some cases, it may be desirable to release the code as an open source library or module such that the wider community can contribute improvements and bug fixes. In other cases, it may be preferable to host the code in a private repository owned by the organization, while still aiming for a similar goal: reuse and collaboration across teams or projects.&lt;/p&gt;
+
+&lt;p&gt;While it has always been possible to create reusable libraries in Angular, the release of Angular 6 in May of this year introduces new features that make it easier than ever before. This presentation will walk through the basic process of building a library within a project, and leveraging the features of the library in the application code. The presentation will then go a step further by discussing how this library can be deployed as a standalone npm module. Various options for deploying the module to the open source community or via a private npm repository such as Verdaccio or Artifactory will be covered.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;Aaron Lozier&lt;/p&gt;
+
+&lt;p&gt;Aaron Lozier has been passionate about programming his entire life. He wrote his first program at age seven on a TI-994a in 1985. After graduating college in 2002, he dove headfirst into the world of Web Development, beginning with ASP, CSS2 and pre-JQuery JavaScript. Within a few years he was drawn to the open source community and began building applications on the LAMP stack. He started a custom application development company, Information ArchiTECH, in 2011. After years of successful projects, building applications for dozens of companies in Louisiana and beyond, his company was acquired. He began work at CGI as a Senior Developer in February of this year, and was quickly promoted to Solution Architect. He currently oversees the Unify360 project, a hybrid-IT management and analytics platform currently in use by numerous Federal agencies.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: -  Creating Reusable Libraries in Angular 6 - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Oct 2018 17:01:00 -0500</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/angular6/javascript/2018/10/29/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/angular6/javascript/2018/10/29/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>angular6</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>ASG&#39;s October 2018 Meeting - Writing Javascript Without the Pain</title>
         <description>&lt;h1 id=&quot;acadiana-software-groups-meeting--wednesday-oct-10th--630-pm&quot;&gt;Acadiana Software Group’s Meeting – Wednesday, Oct. 10th @ 6:30 PM&lt;/h1&gt;
 
 &lt;p&gt;Wednesday Oct 10th @ 6:30pm we will hold our October Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own community member Steven Musumeche presenting! Make sure you are able to attend to learn about TypeScript and how it can help you write JavaScript without all of the pain.&lt;/p&gt;
@@ -328,23 +378,6 @@ Note: If you are interested in a presentation, please talk with us, we would be 
         <pubDate>Mon, 19 Jun 2017 02:28:24 -0500</pubDate>
         <link>https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</link>
         <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</guid>
-        
-        
-        <category>recap</category>
-        
-      </item>
-    
-      <item>
-        <title>May Recap</title>
-        <description>&lt;p&gt;Posting this article on time for a change!&lt;/p&gt;
-
-&lt;p&gt;Thanks goes to Steven Musumeche for giving us a thrilling overview of how to write ui components using React. He also showed us the wonders of Redux.&lt;/p&gt;
-
-&lt;p&gt;You can view the presentation slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48elRlZGhramppcms&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 May 2017 04:08:31 -0500</pubDate>
-        <link>https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</link>
-        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/05/11/recap.html</guid>
         
         
         <category>recap</category>
