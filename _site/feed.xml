@@ -6,9 +6,51 @@
 </description>
     <link>https://acadianasoftwaregroup.org/</link>
     <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Oct 2018 17:05:35 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Oct 2018 17:05:35 -0500</lastBuildDate>
+    <pubDate>Mon, 10 Dec 2018 19:24:44 -0600</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 19:24:44 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Acadiana Software Group&#39;s Christmas Social Gathering (2018)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/images/xmas.png&quot; alt=&quot;Christmas Picture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On December 12th @ 6:30pm we will hold our second annual Acadiana Software Group Christmas Social! We plan to celebrate the Christmas season with drinks, food, and socializing with our fellow Software enthusiasts. We would love for you to join us at Agave / Grouse Room on Kaliste Saloom Rd.  If you are interested in RSVP’ing you can respond to this email, however, if you are unsure, feel free to just show up.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Don’t forget next month we are doing our Ignite talks to kick off the 2019 year! Please let us in our Slack Channel &lt;a href=&quot;https://acadianasoftwaregroup.slack.com/messages/C8B5QEDKM/&quot;&gt;#ignite_2019&lt;/a&gt; if you are interested in this brief 5 minute talk. You just need 20 slides and 5 minutes to go over a topic you find interesting. It does not need to be Software focused. It’s a great way to talk about anything interesting and get experience giving presentations!&lt;/p&gt;
+
+&lt;h2 id=&quot;social&quot;&gt;Social&lt;/h2&gt;
+
+&lt;p&gt;Legends on Johnston Street @ 6:00 pm.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3449.510434874968!2d-92.03577517091884!3d30.165409851717552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb120c1b84cee5342!2sAgave+Mexican+Grill+%26+Cantina!5e0!3m2!1sen!2sus!4v1544490956895&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Christmas Edition - Offsite Social, Drinks, etc. - 120 minutes - 6:30 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Place: Agave / Grouse Room&lt;/li&gt;
+  &lt;li&gt;Street: 1919 Kaliste Saloom Rd #301&lt;/li&gt;
+  &lt;li&gt;City: Lafayette&lt;/li&gt;
+  &lt;li&gt;State: LA&lt;/li&gt;
+  &lt;li&gt;Zip: 70508&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 10 Dec 2018 13:12:00 -0600</pubDate>
+        <link>https://acadianasoftwaregroup.org/social/christmas/2018/12/10/social.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/social/christmas/2018/12/10/social.html</guid>
+        
+        
+        <category>social</category>
+        
+        <category>christmas</category>
+        
+      </item>
     
       <item>
         <title>ASG&#39;s November 2018 Meeting - Creating Reusable Libraries in Angular 6</title>
@@ -364,23 +406,6 @@ Note: If you are interested in a presentation, please talk with us, we would be 
         <category>elixir</category>
         
         <category>functional</category>
-        
-      </item>
-    
-      <item>
-        <title>June Recap</title>
-        <description>&lt;p&gt;We had an excellent presentation by Raymond Camden covering the “Serverless” or “Function As A Service” concept using Apache OpenWhisk.&lt;/p&gt;
-
-&lt;p&gt;You can find his slides &lt;a href=&quot;https://drive.google.com/open?id=0B-RNxQ-0YQ48cDJjMnZydEZUQXc&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Thanks for all the support the community has given us throughout our second presentation season! Look forward to our Summer BBQ and the next presentation in September!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 19 Jun 2017 02:28:24 -0500</pubDate>
-        <link>https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</link>
-        <guid isPermaLink="true">https://acadianasoftwaregroup.org/recap/2017/06/19/recap.html</guid>
-        
-        
-        <category>recap</category>
         
       </item>
     
