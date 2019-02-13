@@ -6,9 +6,57 @@
 </description>
     <link>https://acadianasoftwaregroup.org/</link>
     <atom:link href="https://acadianasoftwaregroup.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Dec 2018 19:24:44 -0600</pubDate>
-    <lastBuildDate>Mon, 10 Dec 2018 19:24:44 -0600</lastBuildDate>
+    <pubDate>Tue, 12 Feb 2019 18:17:00 -0600</pubDate>
+    <lastBuildDate>Tue, 12 Feb 2019 18:17:00 -0600</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>ASG&#39;s November 2018 Meeting - Consequences of Reality</title>
+        <description>&lt;h1 id=&quot;acadiana-software-groups-meeting---wednesday-feb-13th--630-pm&quot;&gt;Acadiana Software Group’s Meeting - Wednesday, Feb. 13th @ 6:30 PM&lt;/h1&gt;
+
+&lt;p&gt;Wednesday Feb 13th @ 6:30pm we will hold our February Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own committee member Chris Parich presenting! Make sure you are able to attend to learn about Consequences of Reality. Chris always gives entertaining presentation and this presentation should be no exception. Chris is like a box of chocolates, you never know what you are going to get (especially with presentations).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
+
+&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
+
+&lt;h3 id=&quot;consequences-of-reality-navigation-in-the-real-world-with-robots&quot;&gt;Consequences of Reality: Navigation in the Real World with Robots&lt;/h3&gt;
+
+&lt;p&gt;The theory of navigation using landmarks, obstacle avoidance, feature detection, and geomagnetic heading are all well and good for simulated worlds, but everything changes once you have to rely on physical measurements to navigate. Chris will walk through the real-world problems of different kinds of sensors, and some of the ways we try to solve or reduce the errors they cause.&lt;/p&gt;
+
+&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://parich.us/&quot;&gt;Chris Parich&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Chris Parich is a polyglot programmer happily writing robot operating systems code on Linux in C++ like a mad man.&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule-itinerary&quot;&gt;Schedule Itinerary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Social - 30 minutes - 6:30 PM&lt;/li&gt;
+  &lt;li&gt;ASG Primary Presentation: - Consequences of Reality - 45 minutes - 7:00 PM&lt;/li&gt;
+  &lt;li&gt;Additional News, Social, and cleanup - 15 minutes - 7:45 PM&lt;/li&gt;
+  &lt;li&gt;Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;location&quot;&gt;Location:&lt;/h2&gt;
+
+&lt;p&gt;Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Feb 2019 17:09:00 -0600</pubDate>
+        <link>https://acadianasoftwaregroup.org/meeting/robotics/navigation/2019/02/12/meeting.html</link>
+        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/robotics/navigation/2019/02/12/meeting.html</guid>
+        
+        
+        <category>meeting</category>
+        
+        <category>robotics</category>
+        
+        <category>navigation</category>
+        
+      </item>
     
       <item>
         <title>Acadiana Software Group&#39;s Christmas Social Gathering (2018)</title>
@@ -376,36 +424,6 @@ Lafayette, LA 70501&lt;/p&gt;
         <category>ruby</category>
         
         <category>rails</category>
-        
-      </item>
-    
-      <item>
-        <title>Acadiana Software Group’s Meeting - this Week - Wednesday, Sept 13th @ 6:30 PM</title>
-        <description>&lt;p&gt;Wednesday Sept 13th @ 6:30pm we will hold our June Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our knowledgeable committee member Alex Songe give us some notable ES6 and ES7 JavaScript features that you may not have noticed. Join us this Wednesday with what is sure to be an enlightening meeting.&lt;/p&gt;
-
-&lt;p&gt;Please forward this email to anyone you think might be interested in this!
-Note: If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!&lt;/p&gt;
-
-&lt;h2 id=&quot;primary-presentation&quot;&gt;Primary Presentation&lt;/h2&gt;
-
-&lt;h3 id=&quot;fun-with-functions-in-es6-and-es7&quot;&gt;Fun with Functions in ES6 and ES7&lt;/h3&gt;
-
-&lt;p&gt;JavaScript has seen a lot of updates with ES6, ES7/ES2015, and ES2016. After a quick highlight reel of some notable ES6 and ES7 features that might’ve gone unnoticed, Alex will use and explain very basic functional programming techniques to keep your JavaScript understandable and to stop your project from devolving into a giant ball of mud within 2 months.&lt;/p&gt;
-
-&lt;h3 id=&quot;presenter&quot;&gt;Presenter&lt;/h3&gt;
-
-&lt;p&gt;Alexander Songe&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Sep 2017 03:03:44 -0500</pubDate>
-        <link>https://acadianasoftwaregroup.org/meeting/elixir/functional/2017/09/12/meeting.html</link>
-        <guid isPermaLink="true">https://acadianasoftwaregroup.org/meeting/elixir/functional/2017/09/12/meeting.html</guid>
-        
-        
-        <category>meeting</category>
-        
-        <category>elixir</category>
-        
-        <category>functional</category>
         
       </item>
     

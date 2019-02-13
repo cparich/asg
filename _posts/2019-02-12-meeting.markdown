@@ -1,0 +1,36 @@
+---
+layout: post
+title:  ASG's November 2018 Meeting - Consequences of Reality
+date:   2019-02-12 18:09:00 -500
+categories: meeting robotics navigation
+---
+# Acadiana Software Group's Meeting - Wednesday, Feb. 13th @ 6:30 PM
+
+Wednesday Feb 13th @ 6:30pm we will hold our February Acadiana Software Group meeting! This month the Acadiana Software Group is going to have our very own committee member Chris Parich presenting! Make sure you are able to attend to learn about Consequences of Reality. Chris always gives entertaining presentation and this presentation should be no exception. Chris is like a box of chocolates, you never know what you are going to get (especially with presentations).
+
+*Note:* If you are interested in a presentation, please talk with us, we would be interested in discussing it out with you!
+
+## Primary Presentation
+
+### Consequences of Reality: Navigation in the Real World with Robots
+
+The theory of navigation using landmarks, obstacle avoidance, feature detection, and geomagnetic heading are all well and good for simulated worlds, but everything changes once you have to rely on physical measurements to navigate. Chris will walk through the real-world problems of different kinds of sensors, and some of the ways we try to solve or reduce the errors they cause.
+
+### Presenter
+
+[Chris Parich](https://parich.us/)
+
+Chris Parich is a polyglot programmer happily writing robot operating systems code on Linux in C++ like a mad man.
+
+## Schedule Itinerary:
+
+* Social - 30 minutes - 6:30 PM
+* ASG Primary Presentation: - Consequences of Reality - 45 minutes - 7:00 PM
+* Additional News, Social, and cleanup - 15 minutes - 7:45 PM
+* Offsite Social, Drinks, and Fun: - (TBD) - 1 hour - 8:00 PM
+
+## Location:
+
+Lafayette Science Museum
+433 Jefferson St, 
+Lafayette, LA 70501
